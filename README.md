@@ -1,4 +1,4 @@
-# SQL_Challenge
+## SQL_Challenge
 ---
 # Employee Database SQL Analysis
 
@@ -9,7 +9,6 @@
 - [Installation](#installation)
 - [Results](#results)
 - [Observable Trends](#observable-trends)
-- [Author](#author)
 
 ---
 
@@ -75,9 +74,9 @@ The following CSV files are used to populate the SQL database and analyze the re
 ### Key Insights:
 
 1.	Salary Trends:
-- The average salary varies across departments, with noticeable trends among job titles.
+   - The average salary varies across departments, with noticeable trends among job titles.
 2.	Employee Distribution:
-- Certain departments have a higher concentration of employees compared to others.
+   - Certain departments have a higher concentration of employees compared to others.
 3.	Managerial Analysis:
 - Data reveals the tenure and departments of managers, highlighting leadership distribution.
 ---
@@ -85,16 +84,9 @@ The following CSV files are used to populate the SQL database and analyze the re
 ## Observable Trends
 
 1.	Salary Distribution:
-- There is a clear pattern in employee salaries based on job titles and department roles.
+   - There is a clear pattern in employee salaries based on job titles and department roles.
 2.	Department Insights:
-- Some departments consistently employ more people and pay higher average salaries.
+   - Some departments consistently employ more people and pay higher average salaries.
 3.	Data Normalization:
-- Organizing data into separate tables allows efficient querying and relational analysis.
+   - Organizing data into separate tables allows efficient querying and relational analysis.
 ---
-
-## Author
-
-**Kendall Burkett**  
-https://github.com/KendallBurkett?tab=repositories
- 
-kbz1987@icloud.com
